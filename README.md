@@ -17,4 +17,4 @@ photo-sphere-viewer.min.js
 
 # conditions 
 image files must be .jpg , .png , .JPG , .PNG ,jpeg
-html file msut be open with Mozilla Firefox or Microsoft Edge ( other browsers are dont allow to acces local image files )
+html file must be opened with Mozilla Firefox or Microsoft Edge ( other browsers are dont allow to acces local image files )
