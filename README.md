@@ -14,3 +14,6 @@ photo-sphere-viewer.min.js
 -put program to same folder with images
 -run program
 -it creates a html file that show panorama gallery
+
+#conditions 
+image files must be .jpg , .png , .JPG , .PNG ,jpeg
