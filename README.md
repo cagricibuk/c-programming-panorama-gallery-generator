@@ -1,5 +1,5 @@
 # c-programming-panorama-gallery
-C program that uses html and javascript for creating a panorama photo gallery.
+C program that uses html and javascript for creating a panorama photo gallery html file.
 
 #  Dependencies
 
