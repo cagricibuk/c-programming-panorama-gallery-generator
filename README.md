@@ -15,5 +15,6 @@ photo-sphere-viewer.min.js
 -run program
 -it creates a html file that show panorama gallery
 
-#conditions 
+# conditions 
 image files must be .jpg , .png , .JPG , .PNG ,jpeg
+html file msut be open with Mozilla Firefox or Microsoft Edge ( other browsers are dont allow to acces local image files )
