@@ -1,3 +1,6 @@
+!deprecated
+
+
 # c-programming-panorama-gallery-generator
 C program that uses html and javascript for generatea panorama photo gallery html file.
 
